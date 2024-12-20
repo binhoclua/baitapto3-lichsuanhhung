@@ -1,0 +1,12 @@
+#baitho {font-size: 45px;font-family: 'Times New Roman', Times, serif;color: midnightblue;}
+h1, h2, p {
+    text-align: center; 
+       }
+#thuoctinh {font-size: 20px;color: rgb(148, 139, 20);}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    background-color: #dbd6b5;
+  }
+  p {font-size: 20px;}
+  a {font-size: 22px;}

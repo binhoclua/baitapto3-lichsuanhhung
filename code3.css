@@ -1,0 +1,26 @@
+a{font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#lythuongkiet {font-size: 50px;color: darkgreen;}
+.a2 {color: darkgreen; font-size: 40px;}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #dbd6b5;
+    margin: 20px;
+              }
+h1, h2 {
+            text-align: center; 
+               }
+img{
+                display: block;
+                border-radius: 10px;
+                box-shadow: 10px 10px 20px rgba(221, 213, 213, 0.5);
+                margin: 0 auto;
+                max-width: 100%; 
+                height: auto;
+              }
+a:hover {
+                color: #8d1a54;
+              }

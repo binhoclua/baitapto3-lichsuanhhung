@@ -1,0 +1,53 @@
+#lythuongkiet {font-size: 50px;color: seagreen;}
+.a1 {color: chocolate;}
+.a2 {color: darkgreen; font-size: 40px;}
+body {
+        font-family: 'Times New Roman', Times, serif;
+        line-height: 1.6;
+        color: #333;
+        background-color: #dbd6b5;
+        margin: 20px;
+           }
+           h1, h2 {
+                text-align: center; 
+                   }
+
+video {
+        display: block;
+        border-radius: 10px;
+        box-shadow: 10px 10px 20px rgba(221, 213, 213, 0.5);
+        margin: 0 auto;
+        max-width: 45%; 
+        height: auto;
+           }
+.video {
+            width: 45%; 
+            height: auto;
+            max-width: 800px; 
+            border: 2px solid #12898d; 
+            border-radius: 10px; 
+            box-shadow: 0 4px 10px rgba(23, 64, 153, 0.5);
+   
+            
+        }
+img{
+   display: block;
+   border-radius: 10px;
+   box-shadow: 10px 10px 20px rgba(221, 213, 213, 0.5);
+   margin: 0 auto;
+   max-width: 100%; 
+   height: auto;}
+
+#a {font-size: 18px;}
+
+a {
+         color: #1b92a1;
+         text-decoration: none;
+         
+       }
+   
+a:hover {
+         color: #2e1a79;
+       }
+figure{text-align: center;}
+       
